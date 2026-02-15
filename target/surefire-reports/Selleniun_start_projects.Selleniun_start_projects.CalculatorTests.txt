@@ -1,0 +1,124 @@
+-------------------------------------------------------------------------------
+Test set: Selleniun_start_projects.Selleniun_start_projects.CalculatorTests
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 12, Skipped: 0, Time elapsed: 0.68 s <<< FAILURE! - in Selleniun_start_projects.Selleniun_start_projects.CalculatorTests
+subTest1(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.048 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+subTest2(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.06 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+subTest3(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.055 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+subTest4(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.051 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+addTest1(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.054 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+addTest2(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.051 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+addTest3(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.051 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+addTest4(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.056 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+multiTest1(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.067 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+multiTest2(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.059 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+multiTest3(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.059 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
+multiTest4(Selleniun_start_projects.Selleniun_start_projects.CalculatorTests)  Time elapsed: 0.067 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
+Host info: host: 'DESKTOP-QBBQETE', ip: '10.0.0.9'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]
+	at Selleniun_start_projects.Selleniun_start_projects.CalculatorTests.setup(CalculatorTests.java:22)
+
